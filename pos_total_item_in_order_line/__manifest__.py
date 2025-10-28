@@ -11,7 +11,7 @@
         POS Customization
     """,
     "depends": ["point_of_sale","sale_loyalty", "pos_loyalty"],
-    "images": ["static/description/banner.png"],
+    "images": ["static/description/banner.gif"],
     "init_xml": [],
     "data": [
     ],
